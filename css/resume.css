@@ -290,3 +290,8 @@ a:hover, a:focus, a:active {
 .screenshots img {
   display: none;
 }
+
+.codeberg {
+  width: 27px;
+  padding-bottom: 5px;
+}
