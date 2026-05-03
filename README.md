@@ -2,6 +2,7 @@
 
 Personal portfolio
 
+moved to https://codeberg.org/SamR1/pages
 
 ---
 
